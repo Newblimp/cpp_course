@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "d30a121236f991d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba46346200e4ace0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Random numbers.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ecd47a638b4c950",
+    "type": "split",
+    "children": [
+      {
+        "id": "11cd27a5e7583a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83d560f207b93492",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8897628a5d1174a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rand",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77e9312fba91a543",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9522dc17f261a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6299251896da5d7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random numbers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f301578ca111f10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Random numbers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ba46346200e4ace0",
+  "lastOpenFiles": [
+    "Random numbers.md",
+    "Input and Output.md",
+    "Abstract Data Types.md",
+    "Stack.md",
+    "Linked List.md",
+    "Control Flow.md",
+    "User defined types.md",
+    "Call-by-value vs call-by-reference.md",
+    "Preprocessor directives.md",
+    "Sorting.md"
+  ]
+}
