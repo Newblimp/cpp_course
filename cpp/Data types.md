@@ -1,5 +1,7 @@
 # Data types
- - ```int```: Integer, 4 bytes long
+In C++, a variable can be converted from one type to another using four casts, one of them being static cast, e.g. ```static_cast<double>(outcomes[j])/trials```
+
+- ```int```: Integer, 4 bytes long
  - ```float```: float
  - ```double```: longer float
  - ```char```: character

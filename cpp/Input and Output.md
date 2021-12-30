@@ -6,3 +6,4 @@
 	 - ```%g``` of ```%G```: prints float in shortest form available, either exponent or written out
  - ```scanf()```: scans ~~typed in content~~ standard input, which can be typed in content,  and assigns it to variables
  - ```fscanf()```: used to scan in files, see also [[Reading in a file]]
+ - In C++, ```cout << "Enter variable:";``` and ```cin >> variable``` are often used

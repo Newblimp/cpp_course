@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Random numbers.md",
+            "file": "Input and Output.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rand",
+                "query": "namespace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random numbers.md",
+                "file": "Input and Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random numbers.md"
+                "file": "Input and Output.md"
               }
             }
           }
@@ -94,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ba46346200e4ace0",
   "lastOpenFiles": [
-    "Random numbers.md",
     "Input and Output.md",
+    "Data types.md",
+    "Reading in a file.md",
+    "Keywords.md",
+    "Untitled.md",
+    "Scope.md",
+    "Random numbers.md",
     "Abstract Data Types.md",
     "Stack.md",
-    "Linked List.md",
-    "Control Flow.md",
-    "User defined types.md",
-    "Call-by-value vs call-by-reference.md",
-    "Preprocessor directives.md",
-    "Sorting.md"
+    "Linked List.md"
   ]
 }

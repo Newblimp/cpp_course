@@ -1,4 +1,5 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Everforest"
+  "cssTheme": "",
+  "translucency": false
 }
