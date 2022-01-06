@@ -7,23 +7,25 @@
 
 #include <iostream>
 #include <vector>
-using namespace std;
-const int N = 40;
 
-inline void sum(int &p, int n, vector<int> d)
+using namespace std;
+const int SIZE = 40;
+
+//sums all elements in vector data into variable accum
+inline void sum(int &accum, int size, vector<int> data)
 {
-    p = 0;
-    for (int i = 0; i < n; ++i)
-        p += d[i];
+    accum = 0;
+    for (int i = 0; i < size; i++)
+        accum += data[i];
 }
 
 int main()
 {
     int accum = 0;
     vector<int> data;
-    for (int i = 0; i < N; ++i)
-        data.push_back(i);
-    sum(accum, N, data);
-    cout << "sum is " << accum << endl;
+    for (int i = 0; i < SIZE; i++)
+        data.push_back(i); //push_back() adds i to the end of the vector
+    sum(accum, SIZE, data);
+    cout << "The -gsum is " << accum << endl;
     return 0;
 }
